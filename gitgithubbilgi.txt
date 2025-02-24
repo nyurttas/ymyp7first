@@ -42,8 +42,8 @@ git log : tüm commitleri listeler
 
 
 
-deneme
-deneme
+
+
 
 
 

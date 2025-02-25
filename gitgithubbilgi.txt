@@ -38,6 +38,11 @@ git commit -m "<mesaj>"
 
 git log : tüm commitleri listeler
 
+.gitignore: versiyonlanmasını istemediğimiz dosyaları ve dosya uzantılarını bunun içerisine yazabiliriz.
+https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+
+
 
 
 
